@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\bin\Debug\netcoreapp3.1\Question on swich.exe
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\bin\Debug\netcoreapp3.1\Question on swich.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\bin\Debug\netcoreapp3.1\Question on swich.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\bin\Debug\netcoreapp3.1\Question on swich.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\bin\Debug\netcoreapp3.1\Question on swich.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\bin\Debug\netcoreapp3.1\Question on swich.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\obj\Debug\netcoreapp3.1\Question on swich.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\obj\Debug\netcoreapp3.1\Question on swich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\obj\Debug\netcoreapp3.1\Question on swich.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\obj\Debug\netcoreapp3.1\Question on swich.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\obj\Debug\netcoreapp3.1\Question on swich.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\obj\Debug\netcoreapp3.1\Question on swich.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\obj\Debug\netcoreapp3.1\Question on swich.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question on swich\Question on swich\obj\Debug\netcoreapp3.1\Question on swich.genruntimeconfig.cache

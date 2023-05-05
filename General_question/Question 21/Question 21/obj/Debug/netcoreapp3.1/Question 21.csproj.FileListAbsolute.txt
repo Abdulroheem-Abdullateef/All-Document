@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\bin\Debug\netcoreapp3.1\Question 21.exe
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\bin\Debug\netcoreapp3.1\Question 21.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\bin\Debug\netcoreapp3.1\Question 21.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\bin\Debug\netcoreapp3.1\Question 21.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\bin\Debug\netcoreapp3.1\Question 21.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\bin\Debug\netcoreapp3.1\Question 21.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\obj\Debug\netcoreapp3.1\Question 21.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\obj\Debug\netcoreapp3.1\Question 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\obj\Debug\netcoreapp3.1\Question 21.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\obj\Debug\netcoreapp3.1\Question 21.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\obj\Debug\netcoreapp3.1\Question 21.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\obj\Debug\netcoreapp3.1\Question 21.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\obj\Debug\netcoreapp3.1\Question 21.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Question 21\Question 21\obj\Debug\netcoreapp3.1\Question 21.genruntimeconfig.cache

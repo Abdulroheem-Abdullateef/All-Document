@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\bin\Debug\netcoreapp3.1\Quiestion 13.exe
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\bin\Debug\netcoreapp3.1\Quiestion 13.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\bin\Debug\netcoreapp3.1\Quiestion 13.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\bin\Debug\netcoreapp3.1\Quiestion 13.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\bin\Debug\netcoreapp3.1\Quiestion 13.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\bin\Debug\netcoreapp3.1\Quiestion 13.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\obj\Debug\netcoreapp3.1\Quiestion 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\obj\Debug\netcoreapp3.1\Quiestion 13.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\obj\Debug\netcoreapp3.1\Quiestion 13.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\obj\Debug\netcoreapp3.1\Quiestion 13.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\obj\Debug\netcoreapp3.1\Quiestion 13.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\obj\Debug\netcoreapp3.1\Quiestion 13.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\obj\Debug\netcoreapp3.1\Quiestion 13.genruntimeconfig.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\General question\Quiestion 13\Quiestion 13\obj\Debug\netcoreapp3.1\Quiestion 13.csproj.AssemblyReference.cache
